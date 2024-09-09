@@ -1,4 +1,4 @@
-
+*.class
 ### Eclipse ###
 .apt_generated
 .classpath
