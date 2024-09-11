@@ -25,4 +25,4 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/sorting-algorithm-animation-java.git
+   git clone https://github.com/Kvr-10/sorting-algorithm-animation-java.git
