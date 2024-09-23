@@ -171,7 +171,7 @@ ul li strong {
 
 #about-me p {
     margin: 0 0 10px 0;
-    text-align: left;
+    text-align: left; 
 }
 
 #about-me a.repo-link {
