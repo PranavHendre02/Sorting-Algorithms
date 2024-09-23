@@ -20,7 +20,7 @@ body {
 }
 
 header {
-    background-color: #701feb;
+    background-color: #2557a3;
     color: #fff;
     padding: 20px 0;
     text-align: center;
@@ -116,7 +116,7 @@ ul li strong {
 .download-link {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #0e7ae6;
+    background-color: #3e97f0;
     color: #fff;
     text-align: center;
     margin: 10px 0;
@@ -126,7 +126,7 @@ ul li strong {
 .repo-link1 {
     display: inline-block;
     padding: 10px 16px;
-    background-color: #8b41eb;
+    background-color: #3e97f0;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
@@ -139,11 +139,11 @@ ul li strong {
 }
 
 .repo-link1:hover {
-    background-color: #6431b7;
+    background-color: #2462a1;
 }
 
 .download-link:hover {
-    background-color: #6431b7;
+    background-color: #3e97f0;
 }
 
 #about-me {
@@ -177,7 +177,7 @@ ul li strong {
 #about-me a.repo-link {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #8b41eb;
+    background-color: #3e97f0;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
@@ -185,7 +185,7 @@ ul li strong {
 }
 
 #about-me a.repo-link:hover {
-    background-color: #6431b7;
+    background-color: #2462a1;
 }
 
 .steps {
@@ -242,7 +242,7 @@ ul li strong {
 .alternative-section .download-link {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #8b41eb;
+    background-color: #3e97f0;
     color: #fff;
     text-align: center;
     border-radius: 5px;
@@ -250,11 +250,11 @@ ul li strong {
 }
 
 .alternative-section .download-link:hover {
-    background-color: #6431b7;
+    background-color: #2462a1;
 }
 
 footer {
-    background-color: #701feb;
+    background-color: #2557a3;
     color: #fff;
     text-align: center;
     padding: 10px 0;
