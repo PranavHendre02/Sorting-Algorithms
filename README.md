@@ -1,28 +1,48 @@
-# Sorting Algorithm Animation in Java
+# **Sorting Algorithms Visualization**
 
-## Overview
+Welcome to the Sorting Algorithms Visualization project! This application, developed in Java, provides a dynamic and interactive way to visualize how various sorting algorithms work.
 
-This project visualizes various sorting algorithms through animated demonstrations implemented in Java. The goal is to provide an educational tool to help understand how different sorting algorithms work and compare their efficiencies visually.
+## Application Overview
+The Sorting Algorithms Visualization is a Java-based project that demonstrates how different sorting algorithms arrange data through step-by-step visual animations. Using Java Swing, this project allows users to visualize sorting processes like Insertion Sort, Quick Sort, and Merge Sort with dynamic and smooth animations.
+
+## How to Run the Application
+
+### Clone the Repository:
+```bash
+git clone https://github.com/Kvr-10/Sorting-Algorithms.git
+```
+### Navigate to the Artifacts Directory:
+After cloning the repository, navigate to the following path:
+```
+Sorting-Algorithms/out/artifacts/Sortings_jar/Sortings.jar
+```
+### Run the Game:
+Locate the `Sortings.jar` file in the directory.  
+Double-click on `Sortings.jar` to start the sorting visualization.
+
+## Alternative
+You can directly download the JAR file from the [Releases page](https://github.com/Kvr-10//releases/latest) and run it.  
+Download [Quiz-Application](https://github.com/Kvr-10/Sorting-Algorithms/releases/latest/download/Sortings.jar) game.
+
+## Prerequisites
+Ensure you have Java installed on your system. You can download and install the latest version of Java from the [official website](https://www.java.com/en/).
 
 ## Features
+- **Insertion Sort**: A simple sorting algorithm that sorts incrementally by building a sorted list.
+- **Quick Sort**: A fast divide-and-conquer sorting method that efficiently organizes data.
+- **Merge Sort**: A powerful, stable algorithm that recursively divides the data and merges sorted subarrays.
+- **Real-Time Visualization**: Step-by-step animated sorting to make learning fun and interactive.
+- **User-Friendly Interface**: Intuitive GUI developed using Java Swing for a seamless experience.
 
-- **Interactive Animation**: See sorting algorithms in action with real-time visual updates.
-- **Multiple Algorithms**: Includes common sorting algorithms like Bubble Sort, Merge Sort, Quick Sort, and more.
-- **Customizable Input**: Adjust the number of elements and the range of values to test different scenarios.
-- **Educational Tool**: Helps in understanding the step-by-step process of sorting algorithms.
+## Skills
+- **Java Programming**: Core programming language for implementing and visualizing sorting algorithms.
+- **GUI Development**: Dynamic and interactive user interface using Java Swing.
+- **Algorithm Optimization**: Efficiently implemented algorithms for performance.
+- **Data Visualization**: Real-time visualization of sorting processes for better understanding.
 
-## Getting Started
+## Contributing
+I welcome contributions to improve the application! Feel free to open issues and submit pull requests.
 
-To get started with this project, follow these steps:
+## Contact
+If you have any questions or feedback, please reach out to us at chamansinha9480@gmail.com.
 
-### Prerequisites
-
-- Java Development Kit (JDK) 8 or higher
-- IDE such as IntelliJ IDEA or Eclipse (optional but recommended)
-
-### Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/Kvr-10/sorting-algorithm-animation-java.git
