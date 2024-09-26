@@ -1,6 +1,6 @@
 # **Sorting Algorithms Visualization**
 
-Welcome to the Sorting Algorithms Visualization project! This application, developed in Java, provides a dynamic and interactive way to visualize how various sorting algorithms work.
+"Welcome to the Sorting Algorithms Visualization project! This interactive Java-based application offers an engaging and intuitive way to explore and understand the inner workings of various sorting algorithms. Experience sorting techniques in real-time, with step-by-step visualizations that make learning algorithms both fun and educational!"
 
 ## Application Overview
 The Sorting Algorithms Visualization is a Java-based project that demonstrates how different sorting algorithms arrange data through step-by-step visual animations. Using Java Swing, this project allows users to visualize sorting processes like Insertion Sort, Quick Sort, and Merge Sort with dynamic and smooth animations.
